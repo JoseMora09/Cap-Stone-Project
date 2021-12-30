@@ -13,7 +13,7 @@ Attach files to each task if needed. Add dependencies to each card.
 1) Install packages - to install the packages, open the code in VS Code and open a Terminal here. Then run command `npm install` and wait for it to finish. This operation is required only once. <br/>
 2) Start application - after istallation is completed, you can start the application by running the command `npm start` it will automatically open a browser and show your app running <br/>
 
-#License <br/>
+## License <br/>
 
 MIT License
 
